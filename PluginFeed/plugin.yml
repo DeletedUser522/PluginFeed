@@ -1,0 +1,6 @@
+name: PluginFeed
+main: PluginFeed\DeletedUser522\Main
+version: 1
+api: [3.0.0]
+author: DeletedUser522
+description: aucun
